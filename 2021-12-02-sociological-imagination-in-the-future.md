@@ -6,13 +6,13 @@ Currently, I'm in my first year of university, and am exploring how the media pe
 
 Thus, this blog post is going to be split into 3 key questions that relate to my future, and is dedicated to reflecting on my past in order to make predictions.
 
-## ****1. What doors will the subject open for me?**** 
+## 1. What doors will the subject open for me?
 
 Sociology, for me, has honed some of the foundational skills that employers desire. 
 
 In the summer of 2021, when I was being interviewed for an environmental conservation job for my local council, I was asked about what I could bring to the council that others couldn't. 
 
-A ****daunting**** question!
+A **daunting** question!
 
 I pasued, thinking to the skills I've harnessed throughout years of education. Suddenly, my mind raced to the concept of 'verstehen' - empathetic understanding - which sociology emphasises as being a pivotal research skill. Bingo: sociology has taught me to look through the eyes of others, and subsequently opened my eyes to the privileges I have theat others don't. Hence, I told the interviewers that as a result of my sociological imagination, which largely focuses on verstehen, I am able to defuse hostile situations efficiently by looking through the eyes of others, and acknowledging the sources of their frustrations.
 
@@ -24,7 +24,7 @@ Sociology, in summary, is like a key to jobs that are highly social, require goo
 
 <br>
 
-## ****2. Which sociological topics will I explore further?**** 
+## 2. Which sociological topics will I explore further?
 
 Part of being a sociology student at university is the sociological research project that is conducted in the third year.
 
@@ -48,7 +48,7 @@ Thus, I can see my future sociological research and interests steering towards g
 
 <br>
 
-## ****3. Why is sociology an important subject moving into the future?****
+## 3. Why is sociology an important subject moving into the future?
 
 So far, I've discussed what sociology may enable me to do in the future, and which elements of sociology I believe I will study further. This leaves me with one more significant question to answer regarding the future of my sociological career: what is the purpose of studying sociology in the future? Why should I pursue a career related to the broad field of sociology?
 
@@ -66,7 +66,7 @@ Thus, as societies begin to rapidly expand as urbanisation rapidly enhances, and
 
 Sociology is the voice that society needs to reveal stories of injustice and power social progress. Without sociology, society will only become more unequal, so it is up to us - the sociologists of today - to speak up and foster equality.
 
-## ****Conclusion****
+## Conclusion
 
 This blog is a bit of a prediction.
 
