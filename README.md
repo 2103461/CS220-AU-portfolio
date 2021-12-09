@@ -69,6 +69,8 @@ The second component of this portfolio is a reflective essay that examines the p
 
 **08/12/21**: Started potfolio overview - completed overview of the website segment. All blog posts were also hyperlinked for clarity.
 
+**09/12/21**: Made minor corrections to first and fourth blog post (images now visible on public website; additional stars (*) removed to certify only text shows).
+
 <br>
 
 ## To do list
