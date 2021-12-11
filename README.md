@@ -34,7 +34,7 @@ This portfolio comprises my website (a personal account of my professional ident
 
 The first component of this portfolio is the [website](https://2103461.github.io/CS220-AU-portfolio/), which entails the details of my professional identity, referring to the institutional practices related to my sense of self (White, 2014). The core of the website focuses specifically on 'my sociological journey': a series of blog posts interwoven with images and hyperlinks that discusses my passion for the subject, how I developed my sociological skills, and where I may go with sociology in the future. I decided to utilise GitHub (a static site generator (SSG)) as the framework for my website, due to markdown language being simplistic to learn, and the fact that this form of website is free. Additional reasoning behind selecting GitHub over other forms of websites, such as web content management systems (WCMS) can be found [here](2021-12-08-GitHub-justification.md). All images used were taken by myself, thus avoiding issues of copyright (further justification is outlined in this [hyperlink](2021-12-08-image-justification.md)). 
 
-The second component of this portfolio is a reflective essay that examines the progression of my digital identity, meaning how one presents themself and identifies online (White, 2011), from 5 years ago (when I was in secondary school), up to today, whilst also looking into how it may change in the future.
+The second component of this portfolio is a reflective essay that examines the progression of my digital identity - meaning how one presents themself and identifies online (White, 2011) - from 5 years ago (when I was in secondary school), up to today, whilst also looking into how it may change in the next 5 years. Embedded in the essay are 3 ['visitors and residents' maps](http://daveowhite.com/vandr/), which I utilised as examples to illustrate how my professional digital identity has changed, and will continue to adapt over time.
 
 <br> 
 
@@ -78,7 +78,7 @@ The second component of this portfolio is a reflective essay that examines the p
 - ~~Complete a first draft of the essay (750+ words)~~
 - ~~Practice referencing in Chicago style in regards to videos/articles on generations, V+R continuum and Prensky's model from 2001; book appointment with librarian for liason.~~ 
 - ~~Receive peer/teacher feedback on the essay draft for improvements.~~
-- Start to make digital copies of V + R maps to add to website in the future.
+- ~~Start to make digital copies of V + R maps to add to website in the future.~~
 - ~~Edit index.md file so that it is my information displayed.~~
 - ~~Learn how to add images and hyperlinks to index.md file.~~
 - ~~Start to make a draft regarding the format of the Sociology website - definitely  insert images from the year 11 bake sale.~~
