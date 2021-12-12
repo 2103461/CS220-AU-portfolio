@@ -77,6 +77,8 @@ The final element of the portfolio is this overview. The overview comprises a lo
 
 **11/12/21**: Converted V+R maps to digital form for easier reading/viewing/clarity. Also made correctments to DI reflection essay, converted document to PDF, and submitted it on Faser.
 
+**12/12/21**: Finished a first draft of the portfolio overview. Also drafted the DI reflection repository branch, which acts as further depth to my website.
+
 <br>
 
 ## To do list
@@ -98,6 +100,6 @@ The final element of the portfolio is this overview. The overview comprises a lo
 - ~~Turn segments on website homepage into hyperlinks for easier reading.~~
 - ~~Find higher quality images for blog posts incorporating visual elements; resize them for better aesthetic.~~
 - ~~Expand 'education' section and hyperlink it for easier reading.~~
-- Complete portfolio overview.
+- ~~Complete portfolio overview.~~
 - Complete peer/self-assessment.
 <br>
