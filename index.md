@@ -6,13 +6,13 @@ Hi, I'm Sam. As the title says, I'm an undergraduate Sociology student at the Un
 <br>
 
 ## Contact details
-University email - sd21290@essex.ac.uk
+- University email - sd21290@essex.ac.uk
 
 <br>
 
 ## CV/Education
 
-[Professional career details.](2021-12-06-Sam-Davies-education.md) 
+- [Professional career details.](2021-12-06-Sam-Davies-education.md) 
 
 <br> 
 
@@ -25,4 +25,4 @@ University email - sd21290@essex.ac.uk
 <br>
 
 ## Digital identity reflection.
-- [A page and essay dedicated to reflecting on my digital identity.]()
+- [A page and essay dedicated to reflecting on my digital identity.](di-reflection.md)
