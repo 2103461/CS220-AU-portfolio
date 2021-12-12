@@ -71,6 +71,8 @@ The second component of this portfolio is a reflective essay that examines the p
 
 **09/12/21**: Made minor corrections to first and fourth blog post (images now visible on public website; additional stars (*) removed to certify only text shows).
 
+**11/12/21**: Converted V+R maps to digital form for easier reading/viewing/clarity. Also made correctments to DI reflection essay, converted document to PDF, and submitted it on Faser.
+
 <br>
 
 ## To do list
