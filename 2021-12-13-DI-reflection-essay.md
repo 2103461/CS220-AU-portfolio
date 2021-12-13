@@ -16,7 +16,7 @@ underdeveloped, particularly within the professional resident domain of White an
 identity continuum (2011). Whereas Prensky (2001:1) notes that students in contemporary 
 educational institutions are ‘digital natives’ – technologically confident – my experience differs 
 dramatically, as my confidence in using technology to express ideas related to both my professional 
-and personal identity five years ago was low (Figure 1). White (2014a) suggests the lack of 
+and personal identity five years ago was low [(Figure 1.)](di-reflection.md). White (2014a) suggests the lack of 
 motivation amongst students to convey their professional digital identities as ‘residents’ is due to 
 the blurring of boundaries between personal and professional domains. Subsequently, students are 
 reluctant to publish professional works online as they fear that aspects of their personal lives may be 
@@ -33,7 +33,7 @@ educational papers, thereby assisting me in carrying out research. White (2014a)
 with the notion of ‘emerging’ forms of knowledge publication, such as blogs and online journals, 
 which are displacing traditional forms of publication and enabling students to express their 
 professional identities from a younger age, coinciding with the inevitable expansion of my 
-professional resident identity in the present (Figure 2.).
+professional resident identity in the present [(Figure 2.)](di-reflection.md).
 
 Therefore, my professional digital identity has shifted from primarily being in the visitor domain of 
 White and Le Cornu’s continuum (2011), towards the resident side, albeit only a slight adjustment 
@@ -70,7 +70,7 @@ Rainie (2014:5) perpetuate this: through a series of online, open-ended surveys 
 technological experts, they concluded that technology is due to flow ‘like electricity’ through 
 individuals’ lives, penetrating educational domains and private spheres, resulting in the growing 
 prominence of resident professional digital identities as individuals become more technologically 
-immersed. Therefore, as Figure 3. suggests, I predict that my professional digital identity will become 
+immersed. Therefore, as [Figure 3.](di-reflection.md) suggests, I predict that my professional digital identity will become 
 more resident as traditional educational institutions to which I belong become more affiliated with
 digital technologies and actively provide students with the skills and platforms to voice their 
 professional ideas. As my educational career progresses, I will increasingly publish work online, such 
@@ -98,7 +98,7 @@ and professional identities (White, 2014a) in contemporary digital society means
 always tend to be more of a professional visitor online, to veil aspects of my personal life from the 
 public.
 
-<ins>Reference list.</ins>
+**Reference list.**
 
 Anderson, J. and Rainie, L. (2014) Digital Life in 2025. Pew Research Center. Available at: 
 https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/ (Accessed: 31 October 
