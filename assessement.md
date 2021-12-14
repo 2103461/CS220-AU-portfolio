@@ -85,6 +85,8 @@ To help measure my progress, I asked 2 other students in my group for feedback o
 
 Feedback given by: student 2001057
 
+<br>
+
 |   | 40- | 40+ | 50+ | 60+ | 70+ | 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1.1 |     |     |  o  |     |     |
