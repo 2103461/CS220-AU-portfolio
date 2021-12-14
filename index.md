@@ -5,11 +5,9 @@ Hi, I'm Sam. As the title says, I'm an undergraduate Sociology student at the Un
 
 <br>
 
-## The environment I'm working to keep immaculate
+**My mission: keeping the environment immaculate.**
 
-<p align="center">
-<img src="assets/img/Updated%20cake%20image.jpg" width="450" height="400" />
-</p>
+<img src="assets/img/GitHub%20homepage%20photo.jpg" width="450" height="600" />
 
 <br>
 
