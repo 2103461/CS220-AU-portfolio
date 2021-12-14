@@ -14,7 +14,7 @@ In the summer of 2021, when I was being interviewed for an environmental conserv
 
 A **daunting** question!
 
-I pasued, thinking to the skills I've harnessed throughout years of education. Suddenly, my mind raced to the concept of 'verstehen' - empathetic understanding - which sociology emphasises as being a pivotal research skill. Bingo: sociology has taught me to look through the eyes of others, and subsequently opened my eyes to the privileges I have theat others don't. Hence, I told the interviewers that as a result of my sociological imagination, which largely focuses on verstehen, I am able to defuse hostile situations efficiently by looking through the eyes of others, and acknowledging the sources of their frustrations.
+I paused, thinking to the skills I've harnessed throughout years of education. Suddenly, my mind raced to the concept of 'verstehen' - empathetic understanding - which sociology emphasises as being a pivotal research skill. Bingo: sociology has taught me to look through the eyes of others, and subsequently opened my eyes to the privileges I have theat others don't. Hence, I told the interviewers that as a result of my sociological imagination, which largely focuses on verstehen, I am able to defuse hostile situations efficiently by looking through the eyes of others, and acknowledging the sources of their frustrations.
 
 This key skill, in my opinion, is what got me that job. So, in regards to the future, as my sense of empathy strengthens, I believe that I will be able to conduct highly personalised, deep, and sensitive social research, which will hopefully explore the perspectives and viewpoints of the social groups who are suppressed within society, and need a platform off which they can project their stories.
 
@@ -44,7 +44,7 @@ At sixth form, a significant module I studied was on families and households, ex
 
 In particular, women have unequal experiences in comparison with men in the domestic sphere, as reinforced by women being faced with the burden of emotional labour, domestic chores and paid employment [(Duncombe and Marsden, 1995)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-954X.1995.tb02482.x), which men tend not to be, and women also taking the brunt of domestic violence [(Gilchrist, 2013)](https://books.google.co.uk/books?hl=en&lr=&id=ym7BUe4MDK8C&oi=fnd&pg=PA159&dq=domestic+abuse+women+UK&ots=ATcE6yr55w&sig=7mKX6sB91SACQR1Un5gkDCOmI5g&redir_esc=y#v=onepage&q=domestic%20abuse%20women%20UK&f=false).
 
-Thus, I can see my future sociological research and interests steering towards gender inequalities in society, as I beleive that women are still hugely subordinate to men in society, and consequently deserve to have their struggles illuminated as a means of driving positive social change.
+Thus, I can see my future sociological research and interests steering towards gender inequalities in society, as I believe that women are still hugely subordinate to men in society, and consequently deserve to have their struggles illuminated as a means of driving positive social change.
 
 <br>
 
@@ -62,7 +62,7 @@ I believe the answer lies in sociology's unique power to reveal perspectives and
 
 And it is sociology that reveals the structures that control our lives, shedding light on the factors that cause individuals to feel a sense of subjugation. It provides insight into the very forces that hamper women from breaking the 'glass ceiling' in the sphere of work; illuminates the historical factors that prevent ethnic minority groups from succeeding within the ethnocentric education system; accentuates the degree of oppression that children face in societies across the globe; and so much more!
 
-Thus, as societies begin to rapidly expand as urbanisation rapidly enhances, and capitalism evolves as the dominant economic system, we need a means of comprehending these radical changes, and the myriad effects they will have on individuals: it is sociology that provides this illumination and allows us to challenge inequalities.
+Thus, as societies begin to rapidly expand as urbanisation intensifies, and capitalism evolves as the dominant economic system, we need a means of comprehending these radical changes, and the myriad effects they will have on individuals: it is sociology that provides this illumination and allows us to challenge inequalities.
 
 Sociology is the voice that society needs to reveal stories of injustice and power social progress. Without sociology, society will only become more unequal, so it is up to us - the sociologists of today - to speak up and foster equality.
 
