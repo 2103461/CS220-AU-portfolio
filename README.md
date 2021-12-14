@@ -67,7 +67,7 @@ The final element of the portfolio is this overview. The overview comprises a lo
 
 **13/12/21**: Finished the DI reflection.md file by embedding essay and V+R maps.
 
-**14/12/21**: Completed peer-feedback for student 2001057.
+**14/12/21**: Completed peer-feedback for student 2001057. Started to act on peer-assessment provided, in hopes of attaining a better final grade.
 
 <br>
 
