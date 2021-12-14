@@ -5,6 +5,14 @@ Hi, I'm Sam. As the title says, I'm an undergraduate Sociology student at the Un
 
 <br>
 
+## The environment I'm working to keep immaculate
+
+<p align="center">
+<img src="assets/img/Updated%20cake%20image.jpg" width="450" height="400" />
+</p>
+
+<br>
+
 ## Contact details
 - University email - sd21290@essex.ac.uk
 
