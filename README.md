@@ -1,9 +1,6 @@
 # CS220 AU portfolio
 
-3. **self-and peer-assessment** (10% of your overall mark) - the CS220 AU marking rubric in the `assessment.md` file to help streamline your progress. Before you submit, use this file to evaluate your work and give feedback on one of your classmates' work.
-4. **portfolio overview** (10% of your overall mark) - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file, the one you are reading now, as a template - change it as necessary.
-
-After you finish these items, add your student number and your portfolio's URL in the `final-check.md` file, complete a checklist in this file and along with the PDF version of your DI reflection, submit it on FASER. 
+(TO BE REMOVED BEFORE SUBMISSION) After you finish these items, add your student number and your portfolio's URL in the `final-check.md` file, complete a checklist in this file and along with the PDF version of your DI reflection, submit it on FASER. 
 
 In essence, you need to submit two files on FASER:
 
@@ -14,10 +11,6 @@ But, before you submit, please rename both files to contain your student number 
 
 1. 0610279-di-reflection.pdf
 2. 0610279-final-check.md
-
-<br> 
-
-![](assets/img/portfolio-graph.png)
 
 <br> 
 
@@ -74,6 +67,8 @@ The final element of the portfolio is this overview. The overview comprises a lo
 
 **13/12/21**: Finished the DI reflection.md file by embedding essay and V+R maps.
 
+**14/12/21**: Completed peer-feedback for student 2001057.
+
 <br>
 
 ## To do list
@@ -96,7 +91,8 @@ The final element of the portfolio is this overview. The overview comprises a lo
 - ~~Find higher quality images for blog posts incorporating visual elements; resize them for better aesthetic.~~
 - ~~Expand 'education' section and hyperlink it for easier reading.~~
 - ~~Complete portfolio overview.~~
-- Complete peer/self-assessment.
+- ~~Complete peer/self-assessment.~~
 - ~~Complete DI reflection by embedding digital V+R maps and DI reflection essay into repository branch.~~
+- Complete additional peer-assessment to heighten grade.
 
 <br>
