@@ -6,4 +6,4 @@ My essay aims to explore how the media - debatably the most contemporary and rel
 
 Therefore, after reading my essay, I hope that you - the viewer, who, like me, has the potential to reveal and challenge injustice - will be more alert to the fact that what we consume everyday - the content of the mass media - is politically distorted, but can also be used as a catalyst to initiate positive social change. 
 
-[Essay: 'To what extent can the content of the mass media be considered ideological in nature?']()
+[Essay: 'To what extent can the content of the mass media be considered ideological in nature?'](assets/img/SC106%20Autumn%20Essay.pdf)
