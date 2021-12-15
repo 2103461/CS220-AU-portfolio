@@ -69,6 +69,8 @@ The final element of the portfolio is this overview. The overview comprises a lo
 
 **14/12/21**: Completed peer-feedback for student 2001057. Started to act on peer-assessment provided, in hopes of attaining a better final grade.
 
+**15/12/21**: embedded SC106 essay after deadline passed to avoid Faser complications.
+
 <br>
 
 ## To do list
@@ -83,7 +85,7 @@ The final element of the portfolio is this overview. The overview comprises a lo
 - ~~Move onto the next stage of the website draft: Sociology at college and what aspects of the course steered me towards a Sociology degree.~~
 - ~~Create an overview of the third segment of my website: the current project (SC106 essay on media ideologies and ineqaulity reinforcement).~~
 - ~~Email SC106 tutor to see if I can directly insert essay into website.~~
-- Insert the SC106 essay to illuminate my contemporary interest in inequalities; work on the 'present' segment.
+- ~~Insert the SC106 essay to illuminate my contemporary interest in inequalities; work on the 'present' segment.~~
 - ~~Begin constructing a portfolio overview - email Krisztian for details/clarification.~~
 - ~~Find a peer for feedback.~~
 - ~~Add a 'future' blog for my website - how my sociological imagination/sociological projects may take shape over time.~~
