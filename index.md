@@ -25,10 +25,10 @@ Photograph taken at Alresford playing fields, the environment I am employed to m
 <br> 
 
 ## Blog: my sociological journey.
-- 10/11/2021 - [Year 11 Citizenship project: inspiring a sociological imagination.](2021-11-10-year-eleven-project.md)
-- 11/11/2021 - [My Sociology sixth form experience: further insight into social inequality.](2021-11-11-sociology-at-sixth-form.md)
-- 26/11/2021 - [Current sociological project: the ideologically manipulative role of the media.](2021-11-26-current-sociological-project.md)
-- 02/12/2021 - [My sociological future: the development of my sociological imagination.](2021-12-02-sociological-imagination-in-the-future.md)
+- 10/11/2021 - [Year 11 Citizenship project: inspiring a sociological imagination.](posts/2021-11-10-year-eleven-project.md)
+- 11/11/2021 - [My Sociology sixth form experience: further insight into social inequality.](posts/2021-11-11-sociology-at-sixth-form.md)
+- 26/11/2021 - [Current sociological project: the ideologically manipulative role of the media.](posts/2021-11-26-current-sociological-project.md)
+- 02/12/2021 - [My sociological future: the development of my sociological imagination.](posts/2021-12-02-sociological-imagination-in-the-future.md)
 
 <br>
 
