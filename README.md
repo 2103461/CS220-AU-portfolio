@@ -71,6 +71,8 @@ The final element of the portfolio is this overview. The overview comprises a lo
 
 **15/12/21**: embedded SC106 essay after deadline passed to avoid Faser complications.
 
+**16/12/21**: inserted blog posts into folder and made minor amendments to the website's grammar. I also gave feedback to student 2103642, in regards to their DI reflection. essay.
+
 <br>
 
 ## To do list
@@ -96,6 +98,6 @@ The final element of the portfolio is this overview. The overview comprises a lo
 - ~~Complete peer/self-assessment.~~
 - ~~Complete DI reflection by embedding digital V+R maps and DI reflection essay into repository branch.~~
 - Complete additional peer-assessment to heighten grade.
-- Learn how to create a folder. Once learned, categorise blog posts, justifications, images, etc. for clarity.
+- ~~Learn how to create a folder. Once learned, categorise blog posts, justifications, images, etc. for clarity.~~
 
 <br>
