@@ -2,7 +2,7 @@
 
 At sixth form, Sociology placed significant emphasis on unearthing the social inequalities within and perpetuated by social institutions, such as the media, family units, religions, the education system, and the criminal justice system.
 
-![](assets/img/Inequalities%20mindmap.jpg)
+![](../assets/img/Inequalities%20mindmap.jpg)
 
 As the image above displays, the inequalities associated with social institutions are broad, encompassing multiple, intersecting facets of social characteristics, such as ethnicity, social class and gender, illustrating how social divisions in contemporary society are complex; the experience of social inequality cannot seemingly be generalised as oppression is an indivisualistic experience.
 
