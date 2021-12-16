@@ -12,6 +12,6 @@ At the end of the bake sale, over £74 was raised for the Colchester Night Shelt
 
 <br>
 
-If interested, explore the [Colchester Night Shelter](https://colchesternightshelter.org.uk) website for information on homelessness in the Colchester vicinity.
+If interested, explore the [Colchester Night Shelter](https://cens4homeless.org.uk/) website for information on homelessness in the Colchester vicinity.
 
 From this point, my interest in social inequalities was primed, hence I desired to explore them further by taking A level Sociology at the Colchester Sixth Form, in hopes of gaining insight into the ways in which power relations within society are unequally balanced.
