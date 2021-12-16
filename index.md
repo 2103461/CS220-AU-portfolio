@@ -9,6 +9,8 @@ Hi, I'm Sam. As the title says, I'm an undergraduate Sociology student at the Un
 
 <img src="assets/img/GitHub%20homepage%20photo.jpg" width="450" height="600" />
 
+Photograph taken at Alresford playing fields, the environment I am employed to maintain.
+
 <br>
 
 ## Contact details
