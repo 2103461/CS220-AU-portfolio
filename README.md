@@ -16,7 +16,7 @@ But, before you submit, please rename both files to contain your student number 
 
 # Overview
 
-This portfolio comprises my website (a personal account of my professional identity and journey as a sociologist), which can be found in the index.md file, or on the right side bar; a reflective essay based on White's (2013) model of digital identities; a self and peer-assessment file that examines the overall success of my website in relation to pre-determined criteria; and this README.md file, which highlights the steps taken in developing the portfolio. This overview will systematically outline the different components in the portfolio and justify decisions made during the process of website design in particular.
+This portfolio comprises my website (a personal account of my professional identity and journey as a sociologist), which can be found in the index.md file, or on the right side bar; a reflective essay based on White and Le Cornu's (2011) model of digital identities; a self and peer-assessment file that examines the overall success of my website in relation to pre-determined criteria; and this README.md file, which highlights the steps taken in developing the portfolio. This overview will systematically outline the different components in the portfolio and justify decisions made during the process of website design in particular.
 
 The first component of this portfolio is the [website](https://2103461.github.io/CS220-AU-portfolio/), which entails the details of my professional identity, referring to the institutional practices related to my sense of self (White, 2014). The core of the website focuses specifically on 'my sociological journey': a series of blog posts interwoven with images and hyperlinks that discusses my passion for the subject, how I developed my sociological skills, and where I may go with sociology in the future. I decided to utilise GitHub (a static site generator (SSG)) as the framework for my website, due to markdown language being simplistic to learn, and the fact that this form of website is free. Additional reasoning behind selecting GitHub over other forms of websites, such as web content management systems (WCMS) can be found [here](2021-12-08-GitHub-justification.md). All images used were taken by myself, thus avoiding issues of copyright (further justification is outlined in this [hyperlink](2021-12-08-image-justification.md)). 
 
@@ -25,6 +25,14 @@ The second component of this portfolio is a [reflective essay](2021-12-13-DI-ref
 Thirdly, this portfolio contains a section of [peer and self-assessment](assessement.md), which examines the success of my portfolio in relation to pre-determined criteria. Complimenting my self-assessment is peer-assessment provided by two students, numbers 2001057 and 2103642. I found peer-assessment to be particularly useful, as it facilitated constructive criticsm, enlightening me on ways to improve my portfolio prior to the deadline. Moreover, because I received peer-assessment from more than one student, this provided me with a more detailed insight into the advantages and disadvantages of my website, giving me a more generalisable overview of the overall success of my portfolio. As a result of also carrying out peer-assessment across different dates, I was able to make improvements based off the first feedback, making my second peer-assessment more reflective of my finished portfolio.
 
 The final element of the portfolio is this overview. The overview comprises a log of completed activities and a supporting to do list, highlighting a significant degree of project-management over the course of the assignment. As well as this, are the above paragraphs, which outline the core of my portfolio, explaining and justifying decisions made throughout the assignment.
+
+**References**
+
+White, D.S. and Le Cornu, A. (2011) “Visitors and Residents: A new typology for online
+engagement”, _First Monday_, 16(9). doi: 10.5210/fm.v16i9.3171.
+
+White, D.S. (2014) _Visitors and Residents_. 10 March.
+https://www.youtube.com/watch?v=sPOG3iThmRI (Accessed: 17 December 2021).
 
 <br> 
 
