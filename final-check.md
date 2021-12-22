@@ -5,7 +5,6 @@ Marker: Krisztian Hofstadter
 GitHub repository URL: <!-- #todo : add the URL of your repository -->  
 
 ## Checklist
-<!-- #todo : complete the checklist below by simply replacing the space with an 'x' as seen in the first checkpoint below. --> 
 
 ### General
 I made sure that
@@ -21,14 +20,14 @@ I used the `index.md` file
 - [x] I wrote my reflection on digital identities focusing on developing my own digital identities 
 - [x] I used Chicago/Harvard (was approved to use Harvard by Krisztian) style referencing
 - [x] I converted my file into a PDF and renamed it to reflect my student number e.g. '0610279-di-reflection.PDF' 
-- [ ] I understand that this reflection could also be added to my website using the `di-reflection.md` file if I feel that its content is safe for public dissemination
+- [x] I understand that this reflection could also be added to my website using the `di-reflection.md` file if I feel that its content is safe for public dissemination
 
 ### Self- and peer-assessment
 In the `assessement.md` file I
 - [x] familiarised myself with the marking rubric
 - [x] filled in the self-assessment table
-- [ ] filled in the peer-assessment tables for which one student in my CS220 group provided feedback for
-- [ ] familiarised myself with the marking rubric and provided feedback for one students in my CS220 group
+- [x] filled in the peer-assessment tables for which at least one student in my CS220 group provided feedback for
+- [x] familiarised myself with the marking rubric and provided feedback for two students in my CS220 group
 
 The student number of the student I provided feedback with is: <!-- #todo : add your classmate's student number -->  
 
