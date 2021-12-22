@@ -98,23 +98,29 @@ and professional identities (White, 2014a) in contemporary digital society means
 always tend to be more of a professional visitor online, to veil aspects of my personal life from the 
 public.
 
+**Important note.**
+
+This essay was converted directly from a PDF to markdown. The PDF belongs to myself and is my own original work. Here is the self reference:
+
+Davies, S. (2021) 'Digital identity reflective essay'. Assignment for _CS220 AU, BA Sociology_, University of Essex. Unpublished.
+
 **Reference list.**
 
 Anderson, J. and Rainie, L. (2014) Digital Life in 2025. Pew Research Center. Available at: 
 https://www.pewresearch.org/internet/2014/03/11/digital-life-in-2025/ (Accessed: 31 October 
 2021).
 
-Camp, J.L. (2004) "Digital identity," in IEEE Technology and Society Magazine, vol. 23, no. 3, pp. 34-
+Camp, J.L. (2004) "Digital identity," in _IEEE Technology and Society Magazine_, vol. 23, no. 3, pp. 34-
 41, doi: 10.1109/MTAS.2004.1337889.
 
-Prensky, M. (2001) “Digital Natives, Digital Immigrant Part 1”, On the Horizon, vol. 9 No. 5, pp. 1-6, 
+Prensky, M. (2001) “Digital Natives, Digital Immigrant Part 1”, _On the Horizon_, vol. 9 No. 5, pp. 1-6, 
 https://doi.org/10.1108/10748120110424816
 
 White, D. S. and Le Cornu, A. (2011) “Visitors and Residents: A new typology for online 
-engagement”, First Monday, 16(9). doi: 10.5210/fm.v16i9.3171.
+engagement”, _First Monday_, 16(9). doi: 10.5210/fm.v16i9.3171.
 
-White, D.S. (2014a) Visitors and Residents: Credibility. 10 March. 
+White, D.S. (2014a) _Visitors and Residents: Credibility_. 10 March. 
 https://www.youtube.com/watch?v=kO569eknM6U (Accessed: 31 October 2021).
 
-White, D.S. (2014b) Visitors and Residents: Open Practice. 5 June.
+White, D.S. (2014b) _Visitors and Residents: Open Practice_. 5 June.
 https://www.youtube.com/watch?v=1X0g2OvSdWc (Accessed: 31 October 2021).
