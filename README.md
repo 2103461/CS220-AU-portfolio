@@ -81,7 +81,9 @@ https://www.youtube.com/watch?v=sPOG3iThmRI (Accessed: 17 December 2021).
 
 **16/12/21**: inserted blog posts into folder and made minor amendments to the website's grammar. I also gave feedback to student 2103642, in regards to their DI reflection. essay.
 
-17/12/21: minor fixes to the website's grammar. Also went over posts on the website link to certify that images were displaying correctly (required slight markdown adjustments).
+**17/12/21**: minor fixes to the website's grammar. Also went over posts on the website link to certify that images were displaying correctly (required slight markdown adjustments).
+
+**22/12/21**: Finalised the process of converting grouped branches into folders.
 
 <br>
 
