@@ -60,7 +60,7 @@ To measure my own progress, I filled in the table below using the above marking 
 | 2.2 |     |     |     |  o  |     |
 | 3.1 |     |   |     |  o   |     |
 | 3.2 |     |     |   |     |   o  |
-| 4.1 |     |     |     |  o  |     |
+| 4.1 |     |     |     |    |  o   |
 
 
 <br>
@@ -83,7 +83,7 @@ To help measure my progress, I asked 2 other students in my group for feedback o
 | 3.2 |     |     |    |     |   o  |
 | 4.1 |     |     |     | o  |     |
 
-Feedback given by: student 2001057
+Feedback given by: student 2001057 (14/12/21).
 
 <br>
 
@@ -98,6 +98,6 @@ Feedback given by: student 2001057
 | 3.2 |     |     |    |     |   o  |
 | 4.1 |     |     |     |    |  o   |
 
-Feedback give by: student 2103642
+Feedback give by: student 2103642 (30/12/21).
 
 <br>
