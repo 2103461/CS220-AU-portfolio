@@ -28,4 +28,4 @@ Figure 3. is a prediction of what my digital identity may look like in the futur
 
 ## Digital identity reflection essay.
 
-- [Essay](2021-12-13-DI-reflection-essay.md)
+- [Essay](posts/2021-12-13-DI-reflection-essay.md)
