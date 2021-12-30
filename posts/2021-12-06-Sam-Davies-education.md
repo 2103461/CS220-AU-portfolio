@@ -1,6 +1,6 @@
 ## CV/Education
 
-- [CV](assets/img/Sam%20Davies%20CV.pdf).
+- [CV](../assets/img/Sam%20Davies%20CV.pdf).
 
 <br>
 
