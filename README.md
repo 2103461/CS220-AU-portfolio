@@ -1,17 +1,5 @@
 # CS220 AU portfolio
 
-(TO BE REMOVED BEFORE SUBMISSION) After you finish these items, add your student number and your portfolio's URL in the `final-check.md` file, complete a checklist in this file and along with the PDF version of your DI reflection, submit it on FASER. 
-
-In essence, you need to submit two files on FASER:
-
-1. di-reflection.pdf
-2. final-check.md
-
-But, before you submit, please rename both files to contain your student number e.g. like this:
-
-1. 0610279-di-reflection.pdf
-2. 0610279-final-check.md
-
 <br> 
 
 # Overview
