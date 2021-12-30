@@ -14,7 +14,7 @@ In the summer of 2021, when I was being interviewed for an environmental conserv
 
 A **daunting** question!
 
-I paused, thinking to the skills I've harnessed throughout years of education. Suddenly, my mind raced to the concept of 'verstehen' - empathetic understanding - which sociology emphasises as being a pivotal research skill. Bingo: sociology has taught me to look through the eyes of others, and subsequently opened my eyes to the privileges I have theat others don't. Hence, I told the interviewers that as a result of my sociological imagination, which largely focuses on verstehen, I am able to defuse hostile situations efficiently by looking through the eyes of others, and acknowledging the sources of their frustrations.
+I paused, thinking to the skills I've harnessed throughout years of education. Suddenly, my mind raced to the concept of 'verstehen' - empathetic understanding - which sociology emphasises as being a pivotal research skill. Bingo: sociology has taught me to look through the eyes of others, and subsequently opened my eyes to the privileges I have that others don't. Hence, I told the interviewers that as a result of my sociological imagination, which largely focuses on verstehen, I am able to defuse hostile situations efficiently by looking through the eyes of others, and acknowledging the sources of their frustrations.
 
 This key skill, in my opinion, is what got me that job. So, in regards to the future, as my sense of empathy strengthens, I believe that I will be able to conduct highly personalised, deep, and sensitive social research, which will hopefully explore the perspectives and viewpoints of the social groups who are suppressed within society, and need a platform off which they can project their stories.
 
@@ -36,7 +36,7 @@ But what are those topics? Where is my interest in sociology heightened?
 
 To assess this, I thought back to my sociological past, and also consulted my present sociological projects. The common theme running throughout these periods, and my website in general, is a desire to tackle social inequality. 
 
-I simply find it devastating that such blatant inequlities exist today, and that women, ethnic minority groups, the elderly, disabled individuals, members of the LGBTQA+ community, and so many more persist to be oppressed and denied basic rights and opportunities in society. From year 11 to today, I have constantly shown interest in raising awareness on social injustice, so this is the direction my research will take.
+I simply find it devastating that such blatant inequalities exist today, and that women, ethnic minority groups, the elderly, disabled individuals, members of the LGBTQA+ community, and so many more persist to be oppressed and denied basic rights and opportunities in society. From year 11 to today, I have constantly shown interest in raising awareness on social injustice, so this is the direction my research will take.
 
 But you may be thinking, which strand of inequality? Indeed, writing a dissertation on inequality would ultimately take me centuries to complete, so I will have to consider which part of inequality most appeals to me. And the answer to that question, is gender.
 
