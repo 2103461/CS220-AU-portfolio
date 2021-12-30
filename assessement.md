@@ -78,10 +78,10 @@ To help measure my progress, I asked 2 other students in my group for feedback o
 | 1.2 |     |     |     |  o  |     |
 | 1.3 |     |    |     |     |   o  |
 | 2.1 |     |     |  o  |     |     |
-| 2.2 |     |     |   o  |    |     |
-| 3.1 |     |    |     |   o  |     |
+| 2.2 |     |     |  o   |    |     |
+| 3.1 |     |    |     |  o   |     |
 | 3.2 |     |     |    |     |   o  |
-| 4.1 |     |     |     |  o  |     |
+| 4.1 |     |     |     | o  |     |
 
 Feedback given by: student 2001057
 
@@ -92,11 +92,11 @@ Feedback given by: student 2001057
 | 1.1 |     |     |   |     |   o  |
 | 1.2 |     |     |     |   |   o  |
 | 1.3 |     |    |     |     |   o |
-| 2.1 |     |     |  o  |     |     |
-| 2.2 |     |     |     |  o  |     |
-| 3.1 |     |  o  |     |     |     |
-| 3.2 |     |     |  o  |     |     |
-| 4.1 |     |     |     |  o  |     |
+| 2.1 |     |     |    |     |   o  |
+| 2.2 |     |     |     |    |   o  |
+| 3.1 |     |   |     |     |   o  |
+| 3.2 |     |     |    |     |   o  |
+| 4.1 |     |     |     |    |  o   |
 
 Feedback give by: student 2103642
 
