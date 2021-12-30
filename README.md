@@ -87,6 +87,8 @@ https://www.youtube.com/watch?v=sPOG3iThmRI (Accessed: 17 December 2021).
 
 **24/12/21**: Finished peer-assessment for student 2103642. Minor spelling and grammatical errors were corrected throughout the portfolio.
 
+**30/12/21**: Added student 2103642's feedback on my DI reflection essay to the peer-assessment table.
+
 <br>
 
 ## To do list
