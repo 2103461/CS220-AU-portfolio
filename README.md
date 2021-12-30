@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=sPOG3iThmRI (Accessed: 17 December 2021).
 <br> 
 
 ## Log
+
 **21/10/21**: Set up GitHub private and public repository. Also started on a vague essay plan in the private 'Notes' repository and transfered it to Word for further development.
 
 **24/10/21**: Completed the first drafts of my past, present and future V+R maps, providing a visual element to help me write my digital identity reflection.
@@ -75,7 +76,7 @@ https://www.youtube.com/watch?v=sPOG3iThmRI (Accessed: 17 December 2021).
 
 **24/12/21**: Finished peer-assessment for student 2103642. Minor spelling and grammatical errors were corrected throughout the portfolio.
 
-**30/12/21**: Added student 2103642's feedback on my DI reflection essay to the peer-assessment table.
+**30/12/21**: Added student 2103642's feedback on my DI reflection essay, website and overall portfolio to the peer-assessment table. Minor grammatical errors were then corrected, enabling me to submit my portfolio to Faser.
 
 <br>
 
@@ -101,9 +102,10 @@ https://www.youtube.com/watch?v=sPOG3iThmRI (Accessed: 17 December 2021).
 - ~~Complete portfolio overview.~~
 - ~~Complete peer/self-assessment.~~
 - ~~Complete DI reflection by embedding digital V+R maps and DI reflection essay into repository branch.~~
-- Complete additional peer-assessment to heighten grade.
+- ~~Complete additional peer-assessment to heighten grade.~~
 - ~~Learn how to create a folder. Once learned, categorise blog posts, justifications, images, etc. for clarity.~~
 - ~~Complete peer-assessment for student 2103642.~~
-- Insert student 2103642's feedback onto my peer-assessment.md file to illuminate greater engagement with the assignment.
+- ~~Insert student 2103642's feedback onto my peer-assessment.md file to illuminate greater engagement with the assignment.~~
+- ~~Submit portfolio to Faser.~~
 
 <br>
