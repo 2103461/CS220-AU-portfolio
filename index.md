@@ -9,7 +9,7 @@ Hi, I'm Sam. As the title says, I'm an undergraduate Sociology student at the Un
 
 <img src="assets/img/GitHub%20homepage%20photo.jpg" width="450" height="600" />
 
-Photograph taken at Alresford playing fields, the environment I am employed to maintain.
+Photograph taken at Alresford playing fields, the landscape I am employed to maintain.
 
 <br>
 
@@ -20,7 +20,7 @@ Photograph taken at Alresford playing fields, the environment I am employed to m
 
 ## CV/Education
 
-- [Professional career details.](2021-12-06-Sam-Davies-education.md) 
+- [Professional career details.](posts/2021-12-06-Sam-Davies-education.md) 
 
 <br> 
 
