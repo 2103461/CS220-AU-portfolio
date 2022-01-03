@@ -90,7 +90,7 @@ use digital technologies to facilitate my professional identity. This can be exe
 social media group chats with academic peers, acting as conduits for the discussion of institutional 
 content in a private environment. In five years, I predict that my resident professional identity will 
 develop as I begin to publish more unfinished educational projects online for constructive peer 
-review. Nevertheless, coinciding with White’s (2014a) argument that the online domain is ‘open 
+review. Nevertheless, coinciding with White’s (2014b) argument that the online domain is ‘open 
 practice’ that exposes professional residents to a multitude of opinions and criticisms, I also predict 
 that most of my resident professional identity will be driven by private group chats which are 
 shielded from digital strangers, protecting me from unfiltered criticism. Moreover, blurring personal 
